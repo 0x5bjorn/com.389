@@ -1,3 +1,4 @@
 # Mathematical Expression Solver using camera
-Libraries: OpenCV, TinyExpr\n
+Libraries: OpenCV, TinyExpr
+
 Engines: Tesseract OCR
