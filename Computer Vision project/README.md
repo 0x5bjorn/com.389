@@ -3,7 +3,7 @@ Libraries: OpenCV, TinyExpr
 
 Engines: Tesseract OCR
 
-Compile:
+Compile and run:
 ```
 make
 ./MathExpressionSolverUsingCamera
