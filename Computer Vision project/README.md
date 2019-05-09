@@ -2,3 +2,9 @@
 Libraries: OpenCV, TinyExpr
 
 Engines: Tesseract OCR
+
+Compile:
+```
+make
+./MathExpressionSolverUsingCamera
+```
