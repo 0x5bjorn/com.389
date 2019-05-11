@@ -10,3 +10,4 @@ Compile and run:
 make
 ./MathExpressionSolverUsingCamera
 ```
+Detailed description of project is in report file
