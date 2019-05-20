@@ -1,7 +1,7 @@
 # Mathematical Expression Solver using camera
 Language: C++
 
-Libraries: OpenCV, TinyExpr
+Libraries: OpenCV, TinyExpr(https://github.com/codeplea/tinyexpr)
 
 Engines: Tesseract OCR
 
