@@ -1,2 +1,2 @@
-# com-389
+# com.389
 Computer Vision course project
